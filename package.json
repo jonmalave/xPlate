@@ -1,7 +1,7 @@
 {
-  "name": "xplate",
+  "name": "xchat",
   "version": "1.0.0",
-  "description": "A Nuxt.js Boilerplate Project",
+  "description": "A Firebase + Nuxt.js Chat App",
   "author": "Jon Malave",
   "private": true,
   "scripts": {
@@ -9,6 +9,9 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.4.0"
   },
   "devDependencies": {
     "cross-env": "^5.2.0",
