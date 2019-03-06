@@ -7,6 +7,7 @@
 ## Demo
 [Demo](https://xplate.netlify.com)
 
+## Components
 
 ### Layout
 * `layout/default.vue` contains four components: `Navbar`, `Navmenu`, `Overlay`, `Nuxt`
