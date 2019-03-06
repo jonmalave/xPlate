@@ -17,7 +17,7 @@ module.exports = {
       { charset: 'utf-8' },
       { hid: 'robots', name: 'robots', content: 'index, follow' },
       { hid: 'description', name: 'description', content: 'A Nuxt.js Boilerplate Project' },
-      { hid: 'keywords', name: 'keywords', content: 'nuxt, boilderplate, template' }  
+      { hid: 'keywords', name: 'keywords', content: 'nuxt, boilerplate, template' }  
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
