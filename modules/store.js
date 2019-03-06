@@ -48,8 +48,5 @@ export default {
 			}
 		}																	
 	]
-	},
-	route: {
-		path: ''
-	}	
+	}
 };

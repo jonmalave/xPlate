@@ -15,7 +15,7 @@
 
 ### Navbar
 * Props `title` and `logo` bind to `site` properties found in `modules/store.js`
-* `toggleMenu()` method is used to toggle between the `Navemenu` display states
+* `toggleMenu()` method is used to toggle between the `Navmenu` display states
 * `action()` method is used to emit a single route change event when clicking on the title or logo 
 
 ### Navmenu
