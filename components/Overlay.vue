@@ -1,6 +1,5 @@
 <template>
   <div class="overlay" :class="display" @click="hide">
-
   </div>
 </template>
 
