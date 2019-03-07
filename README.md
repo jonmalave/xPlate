@@ -1,7 +1,5 @@
 # xPlate
 
-<p align="center"><img align="center" height="400px" src="https://github.com/jonmalave/xPlate/blob/master/static/img/preview.png?raw=true"/></p>
-
 > Use xPlate to quickly get started with building your next responsive static site or single-page application. 
 
 ## Demo
