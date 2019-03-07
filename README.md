@@ -1,6 +1,6 @@
 # xPlate
 
-> Use xPlate to quickly get started with building your next responsive static site or single-page application. 
+> A Nuxt.js Boilerplate Project. Quickly start building a responsive static site or single-page application.
 
 ## Demo
 [Demo](https://xplate.netlify.com)
