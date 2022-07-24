@@ -2,9 +2,6 @@
 
 > A Nuxt.js Boilerplate Project. Quickly start building a responsive static site or single-page application.
 
-## Demo
-[Demo](https://xplate.netlify.com)
-
 ## Components
 
 ### Layout
